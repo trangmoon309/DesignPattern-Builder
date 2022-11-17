@@ -1,0 +1,15 @@
+D:\PA\Builder\CodeDemo\CodeDemo\bin\Debug\net6.0\CodeDemo.exe
+D:\PA\Builder\CodeDemo\CodeDemo\bin\Debug\net6.0\CodeDemo.deps.json
+D:\PA\Builder\CodeDemo\CodeDemo\bin\Debug\net6.0\CodeDemo.runtimeconfig.json
+D:\PA\Builder\CodeDemo\CodeDemo\bin\Debug\net6.0\CodeDemo.dll
+D:\PA\Builder\CodeDemo\CodeDemo\bin\Debug\net6.0\CodeDemo.pdb
+D:\PA\Builder\CodeDemo\CodeDemo\obj\Debug\net6.0\CodeDemo.csproj.AssemblyReference.cache
+D:\PA\Builder\CodeDemo\CodeDemo\obj\Debug\net6.0\CodeDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PA\Builder\CodeDemo\CodeDemo\obj\Debug\net6.0\CodeDemo.AssemblyInfoInputs.cache
+D:\PA\Builder\CodeDemo\CodeDemo\obj\Debug\net6.0\CodeDemo.AssemblyInfo.cs
+D:\PA\Builder\CodeDemo\CodeDemo\obj\Debug\net6.0\CodeDemo.csproj.CoreCompileInputs.cache
+D:\PA\Builder\CodeDemo\CodeDemo\obj\Debug\net6.0\CodeDemo.dll
+D:\PA\Builder\CodeDemo\CodeDemo\obj\Debug\net6.0\refint\CodeDemo.dll
+D:\PA\Builder\CodeDemo\CodeDemo\obj\Debug\net6.0\CodeDemo.pdb
+D:\PA\Builder\CodeDemo\CodeDemo\obj\Debug\net6.0\CodeDemo.genruntimeconfig.cache
+D:\PA\Builder\CodeDemo\CodeDemo\obj\Debug\net6.0\ref\CodeDemo.dll
